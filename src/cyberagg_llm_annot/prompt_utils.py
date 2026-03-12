@@ -17,7 +17,7 @@ EMOTIONS = [
 SYSTEM_PROMPT = """\
 Tu es un annotateur expert en émotions. Ta tâche : produire des étiquettes \
 émotionnelles (multi-label, 0/1) pour UN SEUL message cible (TARGET) écrit \
-par des adolescents (11–18 ans) dans des conversations simulées de \
+par des adolescents (11–18 ans) dans des conversations de \
 cyber-harcèlement en français.
 
 RÈGLES STRICTES
